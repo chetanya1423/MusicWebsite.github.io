@@ -143,9 +143,7 @@ main article audio {
     }
 }
 @media(max-width:547px){
-    body{
-        overflow: hidden;
-    }
+    
     nav {
         position: relative;
         width: 441px;
